@@ -157,8 +157,7 @@ void RF24::startConstCarrier(rf24_pa_dbm_e level, uint8_t channel)
 ---
 IF YOU DO MODIFY CODES OR MAKE IT YOUR OWN PLEASE DO CREDITS FROM OWNER.NOT ACT LIKE YOU OWN...A THANKS OR DONATIONS WOULD BE NICE...to whom claiming they wrote the codes Do note that its already a working code. when you wrote it from scratch..lol..😂
 ---
-# DONATION
-**If you like you can donate to MY PAYPAL ACCOUNT :**
+
 
 
 [PAYPAL](https://paypal.me/smoochieelee?country.x=PH&locale.x=en_US)
@@ -170,10 +169,4 @@ or
 
 
 
-# SPECIAL THANKS FOR DONATORS
-  * [ATOMNFT](https://github.com/ATOMNFT) - HEADER AND DONATIONS
-  * DONATIONS
-  * PARROTSTORE
-  * Sok Ponleu
-  * Philipp Simon
 

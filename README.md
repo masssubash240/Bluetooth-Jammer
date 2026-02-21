@@ -1,3 +1,4 @@
+GOD OF CYBER BLUE JAMMING 
 
 ![smoochieeBLEheaderIMG](https://github.com/smoochiee/Ble-jammer/assets/30816448/8c160045-5e4c-4ad4-ae91-471beade94ba)
 
@@ -151,18 +152,8 @@ void RF24::startConstCarrier(rf24_pa_dbm_e level, uint8_t channel)
 
 
 
-
-
-
----
-IF YOU DO MODIFY CODES OR MAKE IT YOUR OWN PLEASE DO CREDITS FROM OWNER.NOT ACT LIKE YOU OWN...A THANKS OR DONATIONS WOULD BE NICE...to whom claiming they wrote the codes Do note that its already a working code. when you wrote it from scratch..lol..😂
 ---
 
-
-
-[PAYPAL](https://paypal.me/smoochieelee?country.x=PH&locale.x=en_US)
-or
-[GCASH](https://github.com/smoochiee/Ble-jammer/blob/main/GCash-MyQR-16032024181536.PNG.jpg)
 
 
 <a href="https://www.buymeacoffee.com/smoochiee"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=smoochiee&button_colour=FFDD00&font_colour=000000&font_family=Lato&outline_colour=000000&coffee_colour=ffffff" /></a>
